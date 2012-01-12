@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+#login{
+	float: left;	
+}
+
+#login_google{
+	width: 105px;
+	height: 38px;
+	background: url(../img/buttons.jpg) 100px 0px;
+}
